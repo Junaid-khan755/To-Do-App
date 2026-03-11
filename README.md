@@ -12,6 +12,7 @@ A clean, responsive Task Management application built during my **React Revision
 
 - **Frontend:** React.js
 - **Build Tool:** Vite
+- **Styling:** CSS / Tailwind
 - **Version Control:** Git & GitHub
 
 ## ⚙️ How to Run Locally
